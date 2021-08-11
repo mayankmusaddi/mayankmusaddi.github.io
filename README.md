@@ -1,6 +1,6 @@
 ## PortFolio Website
 
-This is my personal website created using jekyll and github-pages, taken from [portfolYOU](http://github.com/YoussefRaafatNasry/portfolYOU] which is quite easily customizable and also has an easy to follow guided [documentation](https://youssefraafatnasry.github.io/portfolYOU/docs/).
+This is my personal website created using jekyll and github-pages, taken from [portfolYOU](http://github.com/YoussefRaafatNasry/portfolYOU) which is quite easily customizable and also has an easy to follow guided [documentation](https://youssefraafatnasry.github.io/portfolYOU/docs/).
 
 ### Execution Instruction
 
