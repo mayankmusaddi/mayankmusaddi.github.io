@@ -24,23 +24,23 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Mayank Musaddi
-  image             : ""
-  behance           : your_username
+  image             : assets/profile.jpg
+  email             : musaddi97@gmail.com
+  facebook          : mayank.musaddi.7
+  github            : mayankmusaddi
+  linkedin          : mayank-musaddi-19b651172
+  twitter           : mayank_musaddi
+# behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
-# gitlab            : your_username
+# gitlab            : your_usernames
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
@@ -59,7 +59,7 @@ collections:
 
 ### Disqus ###
 disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+  shortname: mayankmusaddi-github-io.disqus.com
 
 
 ### Analytics ###

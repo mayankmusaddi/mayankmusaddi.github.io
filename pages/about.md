@@ -8,13 +8,16 @@ weight: 1
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I'm a research student from International Institute of Information Technology, Hyderabad. My research focus being Bioinformatics, my primary work is based on data visualisation and analysis of dense biological data. With a strong apetite for learning, I have taken up projects in various domains like NLP, CV, GNNs, Deep Learning and Web Development.  
+
+## **Experience**
+
+<div class="row">
+{% include about/timeline.html %}
+</div>
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
-
-<div class="row">
-{% include about/timeline.html %}
-</div>
+**The above charts are indicative of nothing as after years of learning I have understood that proficiency in a language is worth nothing, what is matters in proficiency in concepts.

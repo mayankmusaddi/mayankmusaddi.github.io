@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
+- name: C++/Python
   percentage: 90
   color: danger
 
-- name: Go
+- name: React JS/ Node JS/ jQuery AJAX
   percentage: 80
   color:
 
-- name: Python
-  percentage: 70
+- name: Flask/ GoLang
+  percentage: 60
   color: secondary
