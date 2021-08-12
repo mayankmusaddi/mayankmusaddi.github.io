@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
+
+<html lang="en" class="h-100">
+
+<head>
+
+  
+  
+
+  
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Shell and Database">
+  <meta property="og:description" content="A terminal-based shell using C supporting piping, redirection, signal handling, background and foreground process management. Also some database impementatio...">
+
+  <title>Shell and Database</title>
+  <meta name="description" content="A terminal-based shell using C supporting piping, redirection, signal handling, background and foreground process management. Also some database impementatio...">
+
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+
+  <!-- Theme style -->
+  <script src="/assets/js/theme.js"></script>
+
+  <!-- Font Awesome CDN -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.10.0/css/all.css">
+
+  <!-- Bootstrap CSS CDN -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+
+  <!-- Animate CSS CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+</head>
+
+<body class="h-100 d-flex flex-column">
+
+  <main class="flex-shrink-0 container mt-5">
+    <nav class="navbar navbar-expand-lg navbar-themed">
+
+  <a class="navbar-brand" href="/"><h5><b>mayankmusaddi</b></h5></a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <i class="fas fa-1x fa-bars text-themed"></i>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav ml-auto"><a class="nav-item nav-link " href="/about/">About</a>
+
+      <a class="nav-item nav-link active" href="/projects/">Projects</a>
+
+      <a class="nav-item nav-link " href="/blog/">Blog</a>
+
+      
+
+      <span id="theme-toggler" class="nav-item nav-link" role="button" onclick="toggleTheme()"></span>
+    </div>
+  </div>
+
+</nav>
+    <div class="col-lg-10 mx-auto mt-5 post">
+  <h1 id="shell-implementation">Shell Implementation</h1>
+<p>A shell similar to UNIX implemented using C Program with the use of only system calls. It has some C implemented functions of the UNIX shell like ls, echo, pwd etc. and manages to execute other functions on the shell as well.</p>
+
+<h2 id="features">Features</h2>
+<ul>
+  <li>Completely modular and easy to modify</li>
+  <li>Has support for multiple command execution separated by ;</li>
+  <li>Supports processes to be executed in the background if ‘&amp;’ argument is added.</li>
+  <li>Error Handling is done in case of exceptions.</li>
+  <li>Some additional commands like pinfo has been implemented.</li>
+</ul>
+
+<p><a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/mayankmusaddi/C-Shell">
+  View Code
+</a></p>
+
+<h1 id="database-implementations">Database Implementations</h1>
+
+<h2 id="mini-sql-engine">Mini SQL Engine</h2>
+<p>SQL or the Structured Query Language is an essential domain-specific language designed for managing data in a relational database management system. It serves as an Interface between the Functional API and the Database and so it becomes of utmost importance to understand how it may have been constructed. To provide an insight into this, an attempt of making a simple or a mini version of SQL using python has been showcased here.
+A Mini SQL Engine which runs a subset of queries using Command Line Interface.</p>
+<p><a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/mayankmusaddi/mini-sql-engine">
+  View Code
+</a></p>
+
+<h2 id="two-phase-merge-sort">Two Phase Merge Sort</h2>
+<p>An implementation of the two phase merge sort algorithm which is required for sorting of high number of records in a small memory space. This is done in two phase by sorting sublists and writing them to the disks. Finally merging the sorted sublists present in the disk while making sure that the memory contraints are maintained.</p>
+<p><a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/mayankmusaddi/two-phase-merge-sort">
+  View Code
+</a></p>
+
+<h2 id="database-joins">Database Joins</h2>
+<p>A simple python implementation of Sort-Merge Join and Hash Join for two large relations R(X, Y) and S(Y, X) with M memory blocks. These joins are used for Natural or EquiJoin implementation and would work as a two-pass implementation when memory blocks are insufficient.</p>
+<p><a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/mayankmusaddi/database-joins">
+  View Code
+</a></p>
+
+<h2 id="b-trees">B Trees</h2>
+<p>A B+ tree is an m-ary tree with a variable but often large number of children per node. A B+ tree consists of a root, internal nodes and leaves.The root may be either a leaf or a node with two or more children.</p>
+
+<p>A B+ tree can be viewed as a B-tree in which each node contains only keys (not key–value pairs), and to which an additional level is added at the bottom with linked leaves.</p>
+
+<p>The primary value of a B+ tree is in storing data for efficient retrieval in a block-oriented storage context — in particular, filesystems. This is primarily because unlike binary search trees, B+ trees have very high fanout (number of pointers to child nodes in a node, typically on the order of 100 or more), which reduces the number of I/O operations required to find an element in the tree.</p>
+
+<p><a class="m-1 btn btn-outline-primary btn-2 " href="https://github.com/mayankmusaddi/B-trees">
+  View Code
+</a></p>
+
+
+</div>
+  </main>
+
+  <footer class="mt-auto py-3 text-center">
+
+  <small class="text-muted mb-2">
+    <i class="fas fa-code"></i> with <i class="fas fa-heart"></i>
+    by <strong>Mayank Musaddi</strong>
+  </small>
+
+  <div class="container-fluid justify-content-center"><a class="social mx-1"  href="mailto:musaddi97@gmail.com"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#db4437'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fas fa-envelope fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.facebook.com/mayank.musaddi.7"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#3b5998'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-facebook fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.github.com/mayankmusaddi"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#333333'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-github fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.linkedin.com/in/mayank-musaddi-19b651172"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#007bb5'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-linkedin-in fa-1x"></i>
+    </a><a class="social mx-1"  href="https://www.twitter.com/mayank_musaddi"
+       style="color: #6c757d"
+       onMouseOver="this.style.color='#1da1f2'"
+       onMouseOut="this.style.color='#6c757d'">
+      <i class="fab fa-twitter fa-1x"></i>
+    </a>
+
+</div><small id="attribution">
+    theme <a href="https://github.com/YoussefRaafatNasry/portfolYOU">portfolYOU</a>
+  </small>
+  
+</footer>
+
+  
+  <!-- GitHub Buttons -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+<!-- jQuery CDN -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Popper.js CDN -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+
+<!-- Bootstrap JS CDN -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<!-- wow.js CDN & Activation -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script> new WOW().init(); </script>
+
+<!-- Initialize all tooltips -->
+<script>
+$(function () {
+    $('[data-toggle="tooltip"]').tooltip()
+})
+</script>
+
+
+</body>
+
+</html>

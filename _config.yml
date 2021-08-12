@@ -62,11 +62,11 @@ disqus:
   shortname: mayankmusaddi-github-io.disqus.com
 
 
-### Analytics ###
+### Analytics ###`
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: true
   google:
-    tracking_id: your-google-tracking-id
+    tracking_id: UA-204818566-1
 
 
 ### Defaults for collections ###
