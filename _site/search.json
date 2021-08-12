@@ -1,19 +1,19 @@
 [
   
     {
-      "title"    : "Digital Minimalism",
+      "title"    : "Mediated Reality",
       "category" : "",
-      "tags"     : "Social Media, Minimalism, Technology",
-      "url"      : "/blog/digital-minimalism",
-      "date"     : "2019-02-20 00:00:00 +0530"
+      "tags"     : "Social Media, Politics, Technology",
+      "url"      : "/blog/mediated-reality",
+      "date"     : "2021-08-12 00:00:00 +0530"
     } ,
   
     {
-      "title"    : "Learn React.js in 5 minutes",
+      "title"    : "Do not go gentle into that good night",
       "category" : "",
-      "tags"     : "React, JavaScript, Web Development",
-      "url"      : "/blog/learn-react-js",
-      "date"     : "2019-02-15 00:00:00 +0530"
+      "tags"     : "Poetry",
+      "url"      : "/blog/do-not-go-gentle-into-that-good-night",
+      "date"     : "2016-04-17 00:00:00 +0530"
     } 
   
 ]
