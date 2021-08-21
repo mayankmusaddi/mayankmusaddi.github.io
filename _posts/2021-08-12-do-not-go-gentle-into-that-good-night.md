@@ -1,6 +1,6 @@
 ---
 title: Do not go gentle into that good night
-tags: [Poetry]
+tags: [Poetry, Dylan Thomas]
 style: border
 color: dark
 description: 
