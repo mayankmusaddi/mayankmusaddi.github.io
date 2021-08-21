@@ -1,11 +1,11 @@
 [
   
     {
-      "title"    : "Mediated Reality",
+      "title"    : "The Magic of Open Ended Movies",
       "category" : "",
-      "tags"     : "Social Media, Politics, Technology",
-      "url"      : "/blog/mediated-reality",
-      "date"     : "2021-08-12 00:00:00 +0530"
+      "tags"     : "Literature, Movies",
+      "url"      : "/blog/open-ended-movies",
+      "date"     : "2021-08-22 00:00:00 +0530"
     } ,
   
     {
@@ -13,7 +13,15 @@
       "category" : "",
       "tags"     : "Poetry",
       "url"      : "/blog/do-not-go-gentle-into-that-good-night",
-      "date"     : "2016-04-17 00:00:00 +0530"
+      "date"     : "2021-08-12 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Mediated Reality",
+      "category" : "",
+      "tags"     : "Social Media, Politics, Technology",
+      "url"      : "/blog/mediated-reality",
+      "date"     : "2019-03-04 00:00:00 +0530"
     } 
   
 ]
