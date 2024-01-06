@@ -7,8 +7,11 @@ weight: 1
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-I'm a research student from International Institute of Information Technology, Hyderabad. My research focus being Bioinformatics, my primary work is based on data visualisation and analysis of dense biological data. With a strong apetite for learning, I have taken up projects in various domains like NLP, CV, GNNs, Deep Learning and Web Development.  
+Hey there! I'm **{{ site.author.name }}** :wave:
+
+An AI/ML enthusiast rocking it as a product engineer at Sprinklr. I manage diverse products and have driven multiple projects into completion including ML services like Entity Linking of Large scale Social Media Content, Automated text classification modules and AI Chatbots for interacting with company softwares. As a former research student at IIIT Hyderabad, I focused on Bioinformatics, particularly data visualization and analysis of dense biological data.
+
+Beyond tech, you'll catch me strategizing on a chessboard, jamming on the piano and ukulele, and digging into Politics and Philosophy. I'm a perpetual learner, dabbling in NLP, CV, GNNs, Deep Learning, and Web Dev. Hobbies are my ever-changing playlist, adding layers to my journey. Welcome to my digital playground—let's explore the intersections of tech, creativity, and curiosity together! 🚀
 
 ## **Experience**
 

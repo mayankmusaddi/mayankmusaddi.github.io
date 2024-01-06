@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : mayankmusaddi
 description         : >-
-                      AI Engineer turning bytes into brilliance :rocket:.
+                      AI Engineer turning bytes into brilliance :rocket:
                       Welcome to the digital realm where my thought meets pixels!
 baseurl             : ""
 repository          : mayankmusaddi/mayankmusaddi.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)

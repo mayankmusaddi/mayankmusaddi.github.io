@@ -1,44 +1,52 @@
+- title: Product Engineer, Sprinklr
+  from: June 2022
+  to: Present
+  description:
+    - Heading the development of central AI chatbot capable of interacting with multiple Sprinklr Tools/Software to ease the customer onboarding experience.
+    - Involved in Research, Development and Maintenance of the Entity Linking project, a service that detects and classifies important words in a sentence and then links them to their respective Wikipedia links. This service, written in Python, constantly runs on the whole live Twitter feed and is important in providing live insights to brands about their products.
+    - Maintainer of the Smart Intents service. The smart-intents is a few-shot classification tool that allows businesses to train and deploy a classifier model to detect the intent of the customer message in their respective chatbots. This is the most used service in the Conversational AI suite and my responsibilities involve improvements, benchmarking, deployment and management of these services in different production environments.
+    - Involved in the development of a generic infrastructure named Kratos, capable of hosting parallel training and deployment of multiple different machine learning models in a scalable manner.
+    - Worked on the research and development of Customer Satisfaction prediction model, a service which rates customer satisfaction based on the conversation flow between the customer and the agent. The work involved data refining, feature selection and experimentation with several state-of-the-art machine learning algorithms.
+
 - title: Bioinformatics Research Student, CCNSB, IIIT Hyderabad
   from: May 2019
-  to: OnGoing
-  description: ● Working as a research student under Prof. Nita Parekh
-               ● Created NetREx, an end to end web application for data visualisation
-               of dense networks of Gene Coexpression Data using Sigma JS, Express JS
-               and Docker
-               ● Currently focussed on using Graph Neural Networks for the analysis of
-               such bioogical networks to get insights toward multi stress tolerant crops
+  to: May 2023
+  description:
+    - Undergraduate Research Student at Center for Computational Natural Sciences and Bioinformatics (CCNSB @ IIIT) under Professor Nita Parekh.
+    - Worked on Data Visualisation of dense networks of Gene Coexpression Data while using Graph Neural Networks approach to get more insights in crop multi-stress tolerance.
+    - Created NetREx, an end to end web application for data visualisation of dense networks of Gene Coexpression Data using Sigma JS and Express JS.
+
+- title: Teaching Assistant, IIIT Hyderabad
+  from: August 2019
+  to: December 2021
+  description:
+    - Teaching Assistant Head for the Operating Systems and Networks Course, and Distrubuted Systems.
+    - Teaching Assistant for the courses Computer Programming and Software Architecture.
+
+- title: Software Engineer Intern, Bicycle.io
+  from: August 2021
+  to: December 2021
+  description:
+    - Integrated the caching module in the frontend web application to reduce the number of GraphQL calls, thereby optimizing the application load time.
+    - Made integral changes in the frontend UI built on React JS, introducing core functional components central to the usability of the customer.
 
 - title: Machine Learning Intern, Sprinklr
   from: June 2021
   to: August 2021
-  description: ● Created a pipeline for knowledge distillation of large models for
-               language modelling task. Used it to distill large RoBERTa and XLM-RoBERTa
-               models fine-tuned on Twitter specific data to smaller pretrained distilRoBERTa
-               model which is half the size and twice as fast
-               ● Created a web application to host and visualise models and datasets that is
-               used by the Sprinklr AI team using Python Streamlit
+  description:
+    - Created a pipeline for knowledge distillation of large models for language modelling task. Used it to distill large RoBERTa and XLM-RoBERTa models fine-tuned on Twitter specific data to smaller pretrained distilRoBERTa model which is half the size and twice as fast.
+    - Created a web application to host and visualise models and datasets that is used by the Sprinklr AI team using Python Streamlit.
 
 - title: Machine Learning Intern, VISIRIS Innovation(P) Ltd.
   from: May 2019
   to: July 2019
-  description: ● Automated data harvesting from live Football(Soccer) Match Telecast
-               using ML with Python OpenCV, MATLAB and Flask. Data like player positions,
-               team classification, types of passes and the location of ball and goal post was
-               fetched from the match images
-               ● Built the back-end to get top view of field from skewed offside camera image,
-               using the concepts of Morphology and Homography
+  description:
+    - Automated data harvesting from live Football(Soccer) Match Telecast using ML with Python OpenCV, MATLAB and Flask. Data like player positions, team classification, types of passes and the location of ball and goal post was fetched from the match images.
+    - Built the back-end to get top view of field from skewed offside camera image, using the concepts of Morphology and Homography.
 
 - title: Software Engineering Intern, IIITH Product Labs
   from: August 2018
   to: Mar 2019
-  description: ● Built an end to end application for Document Scanning to automate
-               data entry from handfilled form data
-               ● Provided a UI for template creation of the form using Interact and React JS.
-               The back-end used Go Lang and Python Flask. Data extraction used Python
-               OpenCV and SIFT transformation and an OCR made using Tensorflow
-
-- title: Teaching Assistant, IIIT Hyderabad
-  from: Sep 2019
-  to: OnGoing
-  description: ● Assisted in teaching the courses Computer Programming, Software
-               Architecture and Distributed Systems
+  description:
+    - Built an end to end application for Document Scanning to automate data entry from handfilled form data
+    - Provided a UI for template creation of the form using Interact and React JS. The back-end used Go Lang and Python Flask. Data extraction used Python OpenCV and SIFT transformation and an OCR made using Tensorflow
