@@ -18,9 +18,3 @@ Beyond tech, you'll catch me strategizing on a chessboard, jamming on the piano 
 <div class="row">
 {% include about/timeline.html %}
 </div>
-
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
-**The above charts are indicative of nothing as after years of learning I have understood that proficiency in a language is worth nothing, what is matters in proficiency in concepts.
